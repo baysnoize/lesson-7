@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'MuseoSansCyrl-100';
+  src: url('../font/MuseoSansCyrl-100/MuseoSansCyrl-100.eot'); /* IE9 Compat Modes */
+  src: url('../font/MuseoSansCyrl-100/MuseoSansCyrl-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../font/MuseoSansCyrl-100/MuseoSansCyrl-100.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../font/MuseoSansCyrl-100/MuseoSansCyrl-100.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../font/MuseoSansCyrl-100/MuseoSansCyrl-100.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../font/MuseoSansCyrl-100/MuseoSansCyrl-100.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'MuseoSansCyrl-300';
+  src: url('../font/MuseoSansCyrl-300/MuseoSansCyrl-300.eot'); /* IE9 Compat Modes */
+  src: url('../font/MuseoSansCyrl-300/MuseoSansCyrl-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../font/MuseoSansCyrl-300/MuseoSansCyrl-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../font/MuseoSansCyrl-300/MuseoSansCyrl-300.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../font/MuseoSansCyrl-300/MuseoSansCyrl-300.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../font/MuseoSansCyrl-300/MuseoSansCyrl-300.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'MuseoSansCyrl-900';
+  src: url('../font/MuseoSansCyrl-900/MuseoSansCyrl-900.eot'); /* IE9 Compat Modes */
+  src: url('../font/MuseoSansCyrl-900/MuseoSansCyrl-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../font/MuseoSansCyrl-900/MuseoSansCyrl-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../font/MuseoSansCyrl-900/MuseoSansCyrl-900.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../font/MuseoSansCyrl-900/MuseoSansCyrl-900.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../font/MuseoSansCyrl-900/MuseoSansCyrl-900.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'Natasha';
+  src: url('../font/Natasha/Natasha.eot'); /* IE9 Compat Modes */
+  src: url('../font/Natasha/Natasha.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../font/Natasha/Natasha.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../font/Natasha/Natasha.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../font/Natasha/Natasha.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../font/Natasha/Natasha.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
